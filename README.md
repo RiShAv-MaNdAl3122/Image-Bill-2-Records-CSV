@@ -2,7 +2,7 @@
 
 **Image Bill 2 Records CSV** is a local, high-performance, offline data extraction system designed to convert multi-column scanned health insurance/medical bills into structured, verified, pipe-delimited CSV files. 
 
-Built with strict data privacy in mind, this system operates **100% locally** (zero cloud API dependencies, no external LLM processor connections), making it fully HIPAA-compliant for processing Protected Health Information (PHI).
+Built with strict data privacy in mind, this system operates **100% locally** (zero cloud API dependencies, no external LLM processor connections).
 
 ---
 
